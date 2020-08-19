@@ -1,0 +1,26 @@
+{
+  "characters": [
+    {
+      "characterId": "2",
+      "characterName": "Mr. T",
+      "characterOccupation": "Nothing",
+      "characterWeapon": "ALl",
+      "characterCartoon": "on",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "Tomas",
+      "occupation": "Nothing",
+      "weapon": "asa",
+      "cartoon": "on",
+      "id": 4
+    }
+  ]
+}
